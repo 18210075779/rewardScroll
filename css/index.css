@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+.tab-list{
+    width: 400px;
+    margin: 50px auto 0;
+    height: 200px;
+    overflow: hidden;
+    background: #fcf7e7;
+    border-radius: 5px;
+    padding: 20px;
+}
+li{
+    height: 30px;
+    line-height: 30px; 
+}
+span{
+    float: left;
+    width: 50%;
+    text-align: center;
+    font-size: 14px;
+    color: #cd5f28;
+}
